@@ -1,6 +1,18 @@
 # amazon-order-analytics-sql
 SQL-based order analytics project focusing on operational KPIs and business insights
 
+This project simulates an Amazon-style order analytics use case,
+focusing on data cleaning, KPI calculation, and business insights.
+
+## Execution Flow
+
+Run the SQL files in the following order:
+
+1. `01_database_setup.sql` – Creates the database
+2. `02_table_creation.sql` – Creates required tables
+3. `03_data_insertion.sql` – Inserts sample order data
+4. `04_data_cleaning.sql` – Cleans and standardizes data
+5. `05_business_kpis.sql` – Calculates business KPIs for analysis
 
 ---
 
