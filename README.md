@@ -14,6 +14,7 @@ Run the SQL files in the following order:
 4. `04_data_cleaning.sql` – Cleans and standardizes data
 5. `05_business_kpis.sql` – Calculates business KPIs for analysis
 
+
 ---
 
 ## 🗄 Database & Table Design
